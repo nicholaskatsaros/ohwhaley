@@ -21,6 +21,10 @@ knitr::opts_chunk$set(
 
 # ohwhaley  
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/nicholaskatsaros/ohwhaley/workflows/R-CMD-check/badge.svg)](https://github.com/nicholaskatsaros/ohwhaley/actions)
+<!-- badges: end -->
+
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
 
 ## First things first
