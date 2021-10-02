@@ -1,0 +1,19 @@
+Package: ohwhaley
+Title: Summon a whale for a customisable pick-me-up
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nicholas",
+           family = "Katsaros",
+           role = c("aut", "cre"),
+           email = "nicholas.katsaros@students.mq.edu.au")
+Description: Summon a whale for a customisable pick-me-up.This function will print a whale with a cute message.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
