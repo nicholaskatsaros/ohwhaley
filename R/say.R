@@ -1,4 +1,4 @@
-#' Summon a whale for a customisable pick-me-up
+#' Summon a whale for a customisable pick-me-up.
 #'
 #'@description Summon a whale for a customisable pick-me-up.
 #' @param what Whatever phase you want whale to echo.If not supplied, a random phrase is chosen

@@ -2,7 +2,7 @@
 % Please edit documentation in R/say.R
 \name{say}
 \alias{say}
-\title{Summon a whale for a customisable pick-me-up}
+\title{Summon a whale for a customisable pick-me-up.}
 \usage{
 say(what)
 }
