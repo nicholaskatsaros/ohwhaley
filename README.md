@@ -29,7 +29,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Gee...this is over-whalming! 
+#>            Get whale soon! 
 #>             ------ 
 #>                \   
 #>                 \  
