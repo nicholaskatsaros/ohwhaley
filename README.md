@@ -34,7 +34,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Get whale soon! 
+#>            What do you call a pod of noisy whales?        An ORCASTRA! 
 #>             ------ 
 #>                \   
 #>                 \  
@@ -47,7 +47,7 @@ say()
 #>      '._/_.'___.-`
 ```
 
-Alternatively, you can supply your own phrase
+Alternatively, you can supply your own phrase :)
 
 ``` r
 say("I'm beached as bro!!!")

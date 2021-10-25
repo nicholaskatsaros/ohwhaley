@@ -46,7 +46,7 @@ library(ohwhaley)
 say() 
 ```
 
-Alternatively, you can supply your own phrase
+Alternatively, you can supply your own phrase :)
 
 ```{r, customise}
 say("I'm beached as bro!!!")
