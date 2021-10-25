@@ -1,5 +1,5 @@
 Package: ohwhaley
-Title: Summon a whale for a customisable pick-me-up
+Title: Summon a whale for a customisable pick-me-up.
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Nicholas",
