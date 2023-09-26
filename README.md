@@ -6,7 +6,6 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/nicholaskatsaros/ohwhaley/workflows/R-CMD-check/badge.svg)](https://github.com/nicholaskatsaros/ohwhaley/actions)
-[![R-CMD-check](https://github.com/nicholaskatsaros/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/nicholaskatsaros/ohwhaley/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -35,7 +34,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            You're whale-come! 
+#>            Whale, whale, whale...look who's here! 
 #>             ------ 
 #>                \   
 #>                 \  
